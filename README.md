@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheLaundrymaster
 - 👀 I’m interested in ... learning different coding languages and gaining confidence in my coding
-- 🌱 I’m currently learning ... databases
+- 🌱 I’m currently learning ... Web development and database management
 - 📫 How to reach me ... a2quinlan@gmail.com
 
 <!---
